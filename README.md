@@ -1,38 +1,84 @@
-<div align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="200" />
+## 😎 Hi there 👋
 
-# Hi, I'm [Your Name] 👋
+### I'm a Javascript/Typescript Developer from **Lithuania**. My journey in the tech realm is fueled by a love for turning ideas into tangible solutions through code.
 
-🚀 Front-end Developer | JavaScript Enthusiast | Tech Explorer 🌍
+* 💡 Passionate about technologies and problem solution through programming;
+* 👋 Willing to contribute to opensource development projects;
+* 📣 Open for collaborations in Javascript Stack.
 
-### 🛠️ Tech Stack
-- **Languages:** JavaScript, TypeScript
-- **Frontend:** React.js, Next.js, HTML5, CSS3
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB, SQL
-- **Other:** Git, RESTful APIs
+***
 
-### 🌱 Currently Learning
-- [Topic 1]
-- [Topic 2]
+⚡  I’m currently working with multiple projects using React/Next.js 🛠 Node.js ⚡ 
 
-### 🔧 Tools & Technologies
-- VS Code, Git, GitHub, npm, Yarn
+***
 
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br>
 
-### 🚀 Projects
-1. **Project 1**
-   - Description and link to the project repository/demo
-   ![Project 1](url_to_project_image)
 
-2. **Project 2**
-   - Description and link to the project repository/demo
-   ![Project 2](url_to_project_image)
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-### 📫 Connect with Me
-- [LinkedIn](url_to_linkedin)
-- [Email](mailto:your.email@example.com)
+- 💬 Ask me about **React, Next.js, and NodeJS**
 
-</div>
+- 📫 How to reach me **simonas.adomaitis.sa@gmail.com**
+
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/simonas-adomaitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+<a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
+  </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+  </a>
+</p>
+
+- Database
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+  </a>
+</p>
+
+- Cloud Servers
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
+  </a>
+</p>
+
+- Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
+  </a>
+</p>
+
+<br/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+ 
+
+
