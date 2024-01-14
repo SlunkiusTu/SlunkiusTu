@@ -20,13 +20,13 @@
 <br>
 
 
-- 👨‍💻 All of my projects are available at [My workspace](http://supun.traditionalme.life)
+- 👨‍💻 All of my projects are available at [My workspace]()
 
 - 💬 Ask me about **React, Next.js, and NodeJS**
 
 - 📫 How to reach me **simonas.adomaitis.sa@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences]()
 
 <br>
 <h3 align="left">Connect with me:</h3>
