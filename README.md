@@ -40,8 +40,11 @@
 ***
 
 <h3 align="left">Languages and Tools:</h3>
-
+ 
+ 
+  
 - Frontend
+  
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,css,bootstrap,materialui" />
