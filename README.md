@@ -12,7 +12,7 @@
 
 ***
 
-⚡  I’m currently working with multiple projects using React/Next.js 🛠 Node.js ⚡ 
+⚡  I’m currently working with multiple projects using React.js 🛠 Next.js 🛠 Node.js ⚡ 
 
 ***
 
@@ -20,21 +20,17 @@
 <br>
 
 
-- 👨‍💻 All of my projects are available at [My workspace]()
+- 👨‍💻 All of my projects are available at this git account.
 
 - 💬 Ask me about **React, Next.js, and NodeJS**
 
 - 📫 How to reach me **simonas.adomaitis.sa@gmail.com**
 
-- 📄 Know about my experiences [my experiences]()
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/simonas-adomaitis/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SlunkiusTU" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23241530/simonas-adomaitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="SlunkiusTU" height="30" width="40" /></a>
-<a href="https://www.facebook.com/simonas.adomaitis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="SlunkiusTU" height="30" width="40" /></a>
-<a href="https://www.instagram.com/simukas85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="SlunkiusTU" height="30" width="40" /></a>
+ 
 <br>
 
 ***
