@@ -22,9 +22,9 @@ I enjoy turning ideas into real-world web and mobile solutions using modern Java
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👨‍💻 About me
-- All of my projects are available on this GitHub profile  
-- 💬 Ask me about **React, React Native, Typescript**  
-- 📫 Reach me at **simonas.adomaitis.sa@gmail.com**
+- All of my projects are available on this GitHub profile   
+- 📫 Email **simonas.adomaitis.sa@gmail.com**
+- 🌐 Website: **https://simonasadomaitis.vercel.app/**
 
 <br/>
 
