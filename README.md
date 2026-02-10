@@ -43,7 +43,7 @@ I enjoy turning ideas into real-world web and mobile solutions using modern Java
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react, nextjs,js,ts,css,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,css,bootstrap,materialui" />
 </p>
 
 #### ⚙️ Backend
