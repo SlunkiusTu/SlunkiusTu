@@ -43,7 +43,7 @@
   
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,css,bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,js,ts,css,bootstrap,materialui" />
   </a>
 </p>
 
