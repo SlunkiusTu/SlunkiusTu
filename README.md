@@ -1,21 +1,21 @@
-## 👋 Hi there, I'm Simonas
+## Hi, I'm Simonas
 
-### 🚀 JavaScript / TypeScript Developer from **Lithuania**
+###  React, React-native / TypeScript Developer from **Lithuania**
 I enjoy turning ideas into real-world web and mobile solutions using modern JavaScript technologies. I like solving problems, improving code quality, and learning through real projects.
 
 <br/>
 
-- 💡 Passionate about problem-solving through programming  
-- 🌱 Continuously learning and improving my skills  
-- 🤝 Open to collaboration and open-source contributions  
-- 📣 Interested in projects using the JavaScript ecosystem  
+- Problem solving through programming  
+- Improving my skills  
+- Open to collaboration
+- Interested in projects using React, React-Native 
 
 <br/>
 
 ---
 
 ⚡ **Currently working with:**  
-**React.js • React Native • Next.js • Node.js • TypeScript**
+**React.js • React Native • TypeScript**
 
 ---
 
@@ -23,7 +23,7 @@ I enjoy turning ideas into real-world web and mobile solutions using modern Java
 
 ### 👨‍💻 About me
 - All of my projects are available on this GitHub profile  
-- 💬 Ask me about **React, React Native, Next.js, and Node.js**  
+- 💬 Ask me about **React, React Native, Typescript**  
 - 📫 Reach me at **simonas.adomaitis.sa@gmail.com**
 
 <br/>
@@ -43,7 +43,7 @@ I enjoy turning ideas into real-world web and mobile solutions using modern Java
 
 #### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,react-native,nextjs,js,ts,css,bootstrap,materialui" />
+  <img src="https://skillicons.dev/icons?i=react, nextjs,js,ts,css,bootstrap,materialui" />
 </p>
 
 #### ⚙️ Backend
